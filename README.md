@@ -14,3 +14,6 @@
 * [Course 6: Share Data Through the Art of Visualization](https://www.coursera.org/learn/visualize-data?specialization=google-data-analytics)
 * [Course 7: Data Analysis with R Programming](https://www.coursera.org/learn/data-analysis-r?specialization=google-data-analytics)
 * [Course 8: Google Data Analytics Capstone: Complete a Case Study](https://www.coursera.org/learn/google-data-analytics-capstone?specialization=google-data-analytics)
+
+* References:
+    * [Youtube - Google Data Analytics Professional Certificate](https://www.youtube.com/watch?v=qZ6TJc5bSKU&list=PLTy9TANDLN4yoQZ8j5KDG-fPksCirp3GW)
