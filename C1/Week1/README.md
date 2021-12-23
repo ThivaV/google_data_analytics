@@ -1,11 +1,10 @@
-
 # Week 1
 
 ## Reference
 
 * [4 Examples of Business Analytics in Action](https://online.hbs.edu/blog/post/business-analytics-examples)
 
-## Quiz:
+## Quiz
 
 1. A clothing retailer collects and stores data about its sales revenue. Which of the following would be part of its data ecosystem? Select all that apply.
     * Records of its inventory
