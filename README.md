@@ -1,2 +1,3 @@
-# google_data_analytics
-Google Data Analytics Certificate
+# Google Data Analytics
+
+> Google Data Analytics Certificate
